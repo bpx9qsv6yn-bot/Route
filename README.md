@@ -2,7 +2,11 @@
 
 **Accessibility-aware resource routing for people who walk, roll, bike, or use transit.**
 
-[![CI](https://github.com/bpx9qsv6yn-bot/Route/actions/workflows/ci.yml/badge.svg)](https://github.com/bpx9qsv6yn-bot/Route/actions/workflows/ci.yml)
+![FairRoute demo preview](docs/assets/demo-preview.svg)
+
+*80-second product walkthrough: resource search, route constraints, accessibility evidence, access gaps, and planning scenarios.*
+
+[![CI](https://github.com/bpx9qsv6yn-bot/FairRoute/actions/workflows/ci.yml/badge.svg)](https://github.com/bpx9qsv6yn-bot/FairRoute/actions/workflows/ci.yml)
 
 FairRoute is a Gainesville-focused planning prototype that asks a harder question than “what service is nearby?”:
 

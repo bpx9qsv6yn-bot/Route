@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">FairRoute demo preview</title>
+  <desc id="desc">A preview card for the FairRoute product demo.</desc>
+  <rect width="1200" height="675" fill="#f5f3ec"/>
+  <rect x="36" y="36" width="1128" height="603" rx="18" fill="#ffffff" stroke="#d5d1c6" stroke-width="2"/>
+  <text x="82" y="120" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#e4493f" letter-spacing="2">FAIRROUTE</text>
+  <text x="82" y="192" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" fill="#1e2621">A fairer way there.</text>
+  <text x="82" y="242" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#5f665f">Accessibility-aware resource routing for Gainesville.</text>
+  <g transform="translate(82 294)">
+    <rect width="1036" height="250" rx="14" fill="#f8f7f2" stroke="#dedbd2"/>
+    <line x1="72" y1="158" x2="905" y2="78" stroke="#2f9e72" stroke-width="8" stroke-linecap="round"/>
+    <line x1="166" y1="188" x2="790" y2="155" stroke="#e24b43" stroke-width="7" stroke-linecap="round"/>
+    <circle cx="166" cy="188" r="13" fill="#ffffff" stroke="#e24b43" stroke-width="7"/>
+    <circle cx="470" cy="140" r="13" fill="#ffffff" stroke="#2f9e72" stroke-width="7"/>
+    <circle cx="790" cy="155" r="13" fill="#ffffff" stroke="#e24b43" stroke-width="7"/>
+    <rect x="720" y="26" width="258" height="86" rx="12" fill="#ffffff" stroke="#d9d6ce"/>
+    <text x="744" y="60" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#1e2621">Working Food</text>
+    <text x="744" y="88" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#5f665f">25 min · RTS bus · low burden</text>
+    <g transform="translate(450 78)">
+      <circle cx="70" cy="48" r="44" fill="#1e2621" opacity="0.92"/>
+      <polygon points="58,24 58,72 94,48" fill="#ffffff"/>
+    </g>
+  </g>
+  <text x="82" y="602" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#777d76">Product walkthrough · search → constraints → access evidence → citywide gaps → planning</text>
+</svg>

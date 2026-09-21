@@ -108,15 +108,6 @@ The assistant can call only a small allowlist of FairRoute tools. It cannot cont
 | `docs/` | Architecture, product direction, demo, submission, and maintainer notes |
 | `dist/streamlit/` | Streamlit distribution bundle |
 
-## Engineering choices
-
-**Deterministic first.** Routing, scoring, access-gap calculations, and planning results live in Python application code. The LLM does not invent travel times or accessibility facts.
-
-**Unknown stays unknown.** Missing entrance, restroom, stop, or vehicle information is surfaced as uncertainty instead of being converted into a positive accessibility claim.
-
-**Demo data is isolated.** Fictional examples are explicitly labeled and kept separate from ordinary resource searches.
-
-**Planning results are illustrative.** Synthetic sample locations and intervention costs help expose tradeoffs; they are not measurements of resident outcomes or investment recommendations.
 
 ## Current scope and limitations
 
@@ -136,7 +127,6 @@ Bundled street geometry does not establish sidewalk, curb-cut, or entrance quali
 - [Demo guide](docs/demo-guide.md)
 - [Product direction](docs/product-direction.md)
 - [Maintainer handoff](docs/handoff.md)
-- [Submission summary](docs/submission.md)
 
 ## Project status
 

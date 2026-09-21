@@ -14,7 +14,6 @@ It combines community-resource listings, local street geometry, transit data, mo
 
 Distance alone can hide the real cost of reaching a resource. A destination may be geographically close while still requiring too much walking, an inaccessible boarding stop, an uncertain entrance, or a trip that exceeds a person's practical travel limit.
 
-FairRoute keeps those constraints visible instead of silently treating unknown accessibility information as accessible.
 
 ## What it does
 
